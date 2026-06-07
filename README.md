@@ -59,3 +59,7 @@ To open and run this project:
 
 ## Dashboard Preview
 <img width="1865" height="1070" alt="Screenshot - Dashboard" src="https://github.com/user-attachments/assets/ec81fa01-d18c-4dfb-8569-cd6b79e7f0d0" />
+
+Author:
+Joel Smith J
+
