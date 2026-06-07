@@ -3,6 +3,7 @@
 
 This project is a Power BI dashboard developed to analyze the performance of the Messiah Voices YouTube channel. The dashboard provides insights into video views, watch time, subscriber growth, impressions, click-through rate (CTR), and content performance trends. It helps identify top-performing videos and understand audience engagement over time.
 
+## Dashboard Development Screenshots
 <img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/563be7c4-260f-46c1-aaa9-6697f9885eef" />
 <img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b6651df6-6525-4fa2-893f-232f98d18002" />
 <img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c942af5c-a3ab-4856-9dc4-9fbe40207070" />
