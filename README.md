@@ -3,11 +3,11 @@ A Power BI dashboard analyzing Messiah Voices YouTube channel performance, inclu
 <img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/563be7c4-260f-46c1-aaa9-6697f9885eef" />
 <img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b6651df6-6525-4fa2-893f-232f98d18002" />
 <img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c942af5c-a3ab-4856-9dc4-9fbe40207070" />
-Project Overview
+## Project Overview
 
 This project is a Power BI dashboard developed to analyze the performance of the Messiah Voices YouTube channel. The dashboard provides insights into video views, watch time, subscriber growth, impressions, click-through rate (CTR), and content performance trends. It helps identify top-performing videos and understand audience engagement over time.
 
-Features
+## Features
 Total Views Analysis
 Watch Time Analysis
 Subscriber Growth Tracking
@@ -22,8 +22,8 @@ Power Query
 DAX (Data Analysis Expressions)
 Microsoft Excel / CSV Dataset
 Data Visualization Techniques
-Dataset Information
 
+## Dataset Information
 The dataset was generated from YouTube Analytics data of the Messiah Voices YouTube channel and contains:
 
 Video Title
@@ -34,13 +34,13 @@ Subscribers Gained
 Impressions
 Click Through Rate (CTR)
 
-Dashboard Insights
+## Dashboard Insights
 Identifies top-performing videos based on views and watch time.
 Tracks channel growth across different years.
 Monitors audience engagement using impressions and CTR.
 Provides an overview of subscriber growth and content reach.
 
-Requirements
+## Requirements
 
 To open and run this project:
 
@@ -55,5 +55,5 @@ Open the .pbix file using Power BI Desktop.
 Refresh the dataset if required.
 Interact with filters and visualizations to explore insights.
 
-Dashboard Preview
+## Dashboard Preview
 <img width="1865" height="1070" alt="Screenshot - Dashboard" src="https://github.com/user-attachments/assets/ec81fa01-d18c-4dfb-8569-cd6b79e7f0d0" />
