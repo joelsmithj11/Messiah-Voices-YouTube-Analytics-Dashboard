@@ -1,7 +1,19 @@
 # Messiah-Voices-YouTube-Analytics-Dashboard
-## Project Overview
-
 This project is a Power BI dashboard developed to analyze the performance of the Messiah Voices YouTube channel. The dashboard provides insights into video views, watch time, subscriber growth, impressions, click-through rate (CTR), and content performance trends. It helps identify top-performing videos and understand audience engagement over time.
+
+## Problem Statement
+
+YouTube creators generate large amounts of performance data, making it difficult to manually track content performance, audience engagement, and channel growth.
+
+This project provides an interactive Power BI dashboard that transforms raw YouTube Analytics data into meaningful insights, helping identify top-performing videos, monitor subscriber growth, analyze watch time trends, and evaluate audience engagement metrics.
+
+## Business Objective
+
+- Analyze channel performance using key metrics.
+- Identify top-performing content.
+- Monitor audience engagement trends.
+- Track subscriber growth over time.
+- Support content strategy through data-driven insights.
 
 ## Dashboard Development Screenshots
 <img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/563be7c4-260f-46c1-aaa9-6697f9885eef" />
@@ -17,7 +29,8 @@ This project is a Power BI dashboard developed to analyze the performance of the
 - Channel Growth Trends
 - Interactive Filters by Video Title and Upload Year
 - Dynamic KPI Cards
-- Tools and Technologies
+
+## Tools and Technologies
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
@@ -62,4 +75,4 @@ To open and run this project:
 
 Author:
 Joel Smith J
-
+MCA
